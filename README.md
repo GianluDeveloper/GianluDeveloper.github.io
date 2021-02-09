@@ -14,7 +14,7 @@
 
 ## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
 
-**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **26** commits.
+**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **28** commits.
 
 ``` My GitHub.io website ```
 
@@ -98,7 +98,7 @@
 
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
 
-**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **3** commits.
+**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **4** commits.
 
 ``` Automatic keep track of your repositories in a README. ```
 
