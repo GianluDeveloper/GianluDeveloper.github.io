@@ -12,18 +12,18 @@
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
 
+## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
+
+**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **22** commits.
+
+``` My GitHub.io website ```
+
+
 ## [EWalletBiblioteca](https://github.com/GianluDeveloper/EWalletBiblioteca)
 
 **GianluDeveloper/EWalletBiblioteca** have been developed mainly in **Java** and has **22** commits.
 
 ``` E-Wallet WebService Java. Creazione di un software di gestione dei conti correnti con endpoint SOAP & REST ```
-
-
-## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
-
-**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **21** commits.
-
-``` My GitHub.io website ```
 
 
 ## [CorsiEJB](https://github.com/GianluDeveloper/CorsiEJB)
