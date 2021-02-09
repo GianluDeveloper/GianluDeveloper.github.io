@@ -12,13 +12,6 @@
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
 
-## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
-
-**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **28** commits.
-
-``` My GitHub.io website ```
-
-
 ## [EWalletBiblioteca](https://github.com/GianluDeveloper/EWalletBiblioteca)
 
 **GianluDeveloper/EWalletBiblioteca** have been developed mainly in **Java** and has **22** commits.
