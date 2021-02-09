@@ -33,6 +33,13 @@
 ``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
 
 
+## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
+
+**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **8** commits.
+
+``` My GitHub.io website ```
+
+
 ## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
 
 **GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **8** commits.
@@ -52,13 +59,6 @@
 **GianluDeveloper/JavaSpiral** have been developed mainly in **Java** and has **7** commits.
 
 ``` Matrix spiral? Looks like a pyramid eye! ```
-
-
-## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
-
-**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **7** commits.
-
-``` My GitHub.io website ```
 
 
 ## [GianluDeveloper](https://github.com/GianluDeveloper/GianluDeveloper)
