@@ -26,18 +26,18 @@
 ``` Corsi con EJB Java ```
 
 
+## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
+
+**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **14** commits.
+
+``` My GitHub.io website ```
+
+
 ## [CurriculumVitaeCSS](https://github.com/GianluDeveloper/CurriculumVitaeCSS)
 
 **GianluDeveloper/CurriculumVitaeCSS** have been developed mainly in **JavaScript** and has **14** commits.
 
 ``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
-
-
-## [GianluDeveloper.github.io](https://github.com/GianluDeveloper/GianluDeveloper.github.io)
-
-**GianluDeveloper/GianluDeveloper.github.io** have been developed mainly in **null** and has **13** commits.
-
-``` My GitHub.io website ```
 
 
 ## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
