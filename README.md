@@ -12,18 +12,18 @@
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
 
+## [CorsiEJB](https://github.com/GianluDeveloper/CorsiEJB)
+
+**GianluDeveloper/CorsiEJB** have been developed mainly in **Java** and has **23** commits.
+
+``` Corsi con EJB Java ```
+
+
 ## [EWalletBiblioteca](https://github.com/GianluDeveloper/EWalletBiblioteca)
 
 **GianluDeveloper/EWalletBiblioteca** have been developed mainly in **Java** and has **22** commits.
 
 ``` E-Wallet WebService Java. Creazione di un software di gestione dei conti correnti con endpoint SOAP & REST ```
-
-
-## [CorsiEJB](https://github.com/GianluDeveloper/CorsiEJB)
-
-**GianluDeveloper/CorsiEJB** have been developed mainly in **Java** and has **22** commits.
-
-``` Corsi con EJB Java ```
 
 
 ## [CurriculumVitaeCSS](https://github.com/GianluDeveloper/CurriculumVitaeCSS)
