@@ -102,3 +102,10 @@
 
 ``` Client EJB Corsi ```
 
+
+## [ScratchJavaJNI](https://github.com/GianluDeveloper/ScratchJavaJNI)
+
+**GianluDeveloper/ScratchJavaJNI** have been developed mainly in **C** and has **1** commits.
+
+``` A Demo Java JNI API example to use as a starting point for Java Native Interface projects. ```
+
