@@ -75,6 +75,13 @@
 ``` Using the Python binding to OpenCV, the goal of this software is to put in place different strategies to remove private frame from a video source. ```
 
 
+## [ScratchJavaJNI](https://github.com/GianluDeveloper/ScratchJavaJNI)
+
+**GianluDeveloper/ScratchJavaJNI** have been developed mainly in **C** and has **5** commits.
+
+``` A Demo Java JNI API example to use as a starting point for Java Native Interface projects. ```
+
+
 ## [JavaParserHtmlJson](https://github.com/GianluDeveloper/JavaParserHtmlJson)
 
 **GianluDeveloper/JavaParserHtmlJson** have been developed mainly in **Java** and has **5** commits.
@@ -101,11 +108,4 @@
 **GianluDeveloper/CorsiClient** have been developed mainly in **Java** and has **2** commits.
 
 ``` Client EJB Corsi ```
-
-
-## [ScratchJavaJNI](https://github.com/GianluDeveloper/ScratchJavaJNI)
-
-**GianluDeveloper/ScratchJavaJNI** have been developed mainly in **C** and has **1** commits.
-
-``` A Demo Java JNI API example to use as a starting point for Java Native Interface projects. ```
 
