@@ -40,6 +40,13 @@
 ``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
 
 
+## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
+
+**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **8** commits.
+
+``` Frontend with React.js for the project BibliotecaJavaWeb ```
+
+
 ## [PrivateBookmarks](https://github.com/GianluDeveloper/PrivateBookmarks)
 
 **GianluDeveloper/PrivateBookmarks** have been developed mainly in **JavaScript** and has **7** commits.
@@ -59,13 +66,6 @@
 **GianluDeveloper/GianluDeveloper** have been developed mainly in **null** and has **7** commits.
 
 ``` Github Homepage ```
-
-
-## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
-
-**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **7** commits.
-
-``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
 
 ## [Travelers-TodoList](https://github.com/GianluDeveloper/Travelers-TodoList)
