@@ -61,6 +61,13 @@
 ``` Github Homepage ```
 
 
+## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
+
+**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **7** commits.
+
+``` Frontend with React.js for the project BibliotecaJavaWeb ```
+
+
 ## [Travelers-TodoList](https://github.com/GianluDeveloper/Travelers-TodoList)
 
 **GianluDeveloper/Travelers-TodoList** have been developed mainly in **JavaScript** and has **6** commits.
@@ -94,13 +101,6 @@
 **GianluDeveloper/Hasher-Server** have been developed mainly in **Go** and has **5** commits.
 
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
-
-
-## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
-
-**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **5** commits.
-
-``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
 
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
