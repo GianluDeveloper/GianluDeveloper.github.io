@@ -103,18 +103,18 @@
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
 
 
+## [EWalletMaven](https://github.com/GianluDeveloper/EWalletMaven)
+
+**GianluDeveloper/EWalletMaven** have been developed mainly in **Java** and has **4** commits.
+
+``` Software di gestione dei conti correnti con endpoint SOAP & REST. Maven. ```
+
+
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
 
 **GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **4** commits.
 
 ``` Automatic keep track of your repositories in a README. ```
-
-
-## [EWalletMaven](https://github.com/GianluDeveloper/EWalletMaven)
-
-**GianluDeveloper/EWalletMaven** have been developed mainly in **Java** and has **3** commits.
-
-``` Software di gestione dei conti correnti con endpoint SOAP & REST. Maven. ```
 
 
 ## [CorsiClient](https://github.com/GianluDeveloper/CorsiClient)
