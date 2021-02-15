@@ -7,7 +7,7 @@
 # My GitHub Projects
 ## [BibliotecaJavaWeb](https://github.com/GianluDeveloper/BibliotecaJavaWeb)
 
-**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **57** commits.
+**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **58** commits.
 
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
@@ -108,6 +108,13 @@
 **GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **4** commits.
 
 ``` Automatic keep track of your repositories in a README. ```
+
+
+## [EWalletMaven](https://github.com/GianluDeveloper/EWalletMaven)
+
+**GianluDeveloper/EWalletMaven** have been developed mainly in **Java** and has **3** commits.
+
+``` Software di gestione dei conti correnti con endpoint SOAP & REST. Maven. ```
 
 
 ## [CorsiClient](https://github.com/GianluDeveloper/CorsiClient)
