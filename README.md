@@ -33,18 +33,18 @@
 ``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
 
 
+## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
+
+**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **9** commits.
+
+``` Frontend with React.js for the project BibliotecaJavaWeb ```
+
+
 ## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
 
 **GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **8** commits.
 
 ``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
-
-
-## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
-
-**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **8** commits.
-
-``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
 
 ## [PrivateBookmarks](https://github.com/GianluDeveloper/PrivateBookmarks)
