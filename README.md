@@ -7,7 +7,7 @@
 # My GitHub Projects
 ## [BibliotecaJavaWeb](https://github.com/GianluDeveloper/BibliotecaJavaWeb)
 
-**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **58** commits.
+**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **60** commits.
 
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
@@ -21,7 +21,7 @@
 
 ## [EWalletBiblioteca](https://github.com/GianluDeveloper/EWalletBiblioteca)
 
-**GianluDeveloper/EWalletBiblioteca** have been developed mainly in **Java** and has **22** commits.
+**GianluDeveloper/EWalletBiblioteca** have been developed mainly in **Java** and has **24** commits.
 
 ``` E-Wallet WebService Java. Creazione di un software di gestione dei conti correnti con endpoint SOAP & REST ```
 
@@ -101,13 +101,6 @@
 **GianluDeveloper/Hasher-Server** have been developed mainly in **Go** and has **5** commits.
 
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
-
-
-## [EWalletMaven](https://github.com/GianluDeveloper/EWalletMaven)
-
-**GianluDeveloper/EWalletMaven** have been developed mainly in **Java** and has **4** commits.
-
-``` Software di gestione dei conti correnti con endpoint SOAP & REST. Maven. ```
 
 
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
