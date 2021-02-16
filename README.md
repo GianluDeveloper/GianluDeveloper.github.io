@@ -14,7 +14,7 @@
 
 ## [CorsiEJB](https://github.com/GianluDeveloper/CorsiEJB)
 
-**GianluDeveloper/CorsiEJB** have been developed mainly in **Java** and has **32** commits.
+**GianluDeveloper/CorsiEJB** have been developed mainly in **Java** and has **33** commits.
 
 ``` Corsi con EJB Java ```
 
@@ -119,7 +119,7 @@
 
 ## [CorsiClient](https://github.com/GianluDeveloper/CorsiClient)
 
-**GianluDeveloper/CorsiClient** have been developed mainly in **Java** and has **2** commits.
+**GianluDeveloper/CorsiClient** have been developed mainly in **Java** and has **3** commits.
 
 ``` Client EJB Corsi ```
 
