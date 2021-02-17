@@ -28,7 +28,7 @@
 
 ## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
 
-**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **15** commits.
+**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **16** commits.
 
 ``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
