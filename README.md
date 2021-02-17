@@ -7,7 +7,7 @@
 # My GitHub Projects
 ## [BibliotecaJavaWeb](https://github.com/GianluDeveloper/BibliotecaJavaWeb)
 
-**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **61** commits.
+**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **62** commits.
 
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
@@ -35,7 +35,7 @@
 
 ## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
 
-**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **13** commits.
+**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **14** commits.
 
 ``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
