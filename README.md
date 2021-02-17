@@ -26,18 +26,18 @@
 ``` E-Wallet WebService Java. Creazione di un software di gestione dei conti correnti con endpoint SOAP & REST ```
 
 
+## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
+
+**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **15** commits.
+
+``` Frontend with React.js for the project BibliotecaJavaWeb ```
+
+
 ## [CurriculumVitaeCSS](https://github.com/GianluDeveloper/CurriculumVitaeCSS)
 
 **GianluDeveloper/CurriculumVitaeCSS** have been developed mainly in **JavaScript** and has **14** commits.
 
 ``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
-
-
-## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
-
-**GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **14** commits.
-
-``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
 
 ## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
