@@ -7,14 +7,14 @@
 # My GitHub Projects
 ## [BibliotecaJavaWeb](https://github.com/GianluDeveloper/BibliotecaJavaWeb)
 
-**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **62** commits.
+**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **63** commits.
 
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
 
 ## [CorsiEJB](https://github.com/GianluDeveloper/CorsiEJB)
 
-**GianluDeveloper/CorsiEJB** have been developed mainly in **Java** and has **33** commits.
+**GianluDeveloper/CorsiEJB** have been developed mainly in **Java** and has **34** commits.
 
 ``` Corsi con EJB Java ```
 
