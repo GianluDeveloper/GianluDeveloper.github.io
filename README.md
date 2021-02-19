@@ -7,7 +7,7 @@
 # My GitHub Projects
 ## [BibliotecaJavaWeb](https://github.com/GianluDeveloper/BibliotecaJavaWeb)
 
-**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **CSS** and has **65** commits.
+**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **66** commits.
 
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
