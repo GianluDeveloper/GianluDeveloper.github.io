@@ -75,6 +75,13 @@
 ``` Simple Todo List I built from scratch for collaboratively listing things to bring with us for a travel with my girlfriend. The listing element is an editable HTML, and you can remove elements by clicking on the broken_heart icon. ```
 
 
+## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
+
+**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **6** commits.
+
+``` Automatic keep track of your repositories in a README. ```
+
+
 ## [VideoPrivacy](https://github.com/GianluDeveloper/VideoPrivacy)
 
 **GianluDeveloper/VideoPrivacy** have been developed mainly in **Python** and has **5** commits.
@@ -101,13 +108,6 @@
 **GianluDeveloper/Hasher-Server** have been developed mainly in **Go** and has **5** commits.
 
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
-
-
-## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
-
-**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **5** commits.
-
-``` Automatic keep track of your repositories in a README. ```
 
 
 ## [OpenRemotePort](https://github.com/GianluDeveloper/OpenRemotePort)
