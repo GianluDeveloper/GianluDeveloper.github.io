@@ -47,6 +47,13 @@
 ``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
 
 
+## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
+
+**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **8** commits.
+
+``` Automatic keep track of your repositories in a README. ```
+
+
 ## [PrivateBookmarks](https://github.com/GianluDeveloper/PrivateBookmarks)
 
 **GianluDeveloper/PrivateBookmarks** have been developed mainly in **JavaScript** and has **7** commits.
@@ -73,13 +80,6 @@
 **GianluDeveloper/Travelers-TodoList** have been developed mainly in **JavaScript** and has **6** commits.
 
 ``` Simple Todo List I built from scratch for collaboratively listing things to bring with us for a travel with my girlfriend. The listing element is an editable HTML, and you can remove elements by clicking on the broken_heart icon. ```
-
-
-## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
-
-**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **6** commits.
-
-``` Automatic keep track of your repositories in a README. ```
 
 
 ## [VideoPrivacy](https://github.com/GianluDeveloper/VideoPrivacy)
