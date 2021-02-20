@@ -105,7 +105,7 @@
 
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
 
-**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **4** commits.
+**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **5** commits.
 
 ``` Automatic keep track of your repositories in a README. ```
 
