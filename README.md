@@ -40,18 +40,18 @@
 ``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
 
 
+## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
+
+**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **9** commits.
+
+``` Automatic keep track of your repositories in a README. ```
+
+
 ## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
 
 **GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **8** commits.
 
 ``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
-
-
-## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
-
-**GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **8** commits.
-
-``` Automatic keep track of your repositories in a README. ```
 
 
 ## [PrivateBookmarks](https://github.com/GianluDeveloper/PrivateBookmarks)
