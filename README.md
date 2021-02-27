@@ -35,7 +35,7 @@
 
 ## [CurriculumVitaeCSS](https://github.com/GianluDeveloper/CurriculumVitaeCSS)
 
-**GianluDeveloper/CurriculumVitaeCSS** have been developed mainly in **JavaScript** and has **14** commits.
+**GianluDeveloper/CurriculumVitaeCSS** have been developed mainly in **JavaScript** and has **16** commits.
 
 ``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
 
