@@ -89,6 +89,13 @@
 ``` Simple Todo List I built from scratch for collaboratively listing things to bring with us for a travel with my girlfriend. The listing element is an editable HTML, and you can remove elements by clicking on the broken_heart icon. ```
 
 
+## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
+
+**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **6** commits.
+
+``` Frontend Angular progetto Biblioteca ```
+
+
 ## [VideoPrivacy](https://github.com/GianluDeveloper/VideoPrivacy)
 
 **GianluDeveloper/VideoPrivacy** have been developed mainly in **Python** and has **5** commits.
@@ -115,13 +122,6 @@
 **GianluDeveloper/Hasher-Server** have been developed mainly in **Go** and has **5** commits.
 
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
-
-
-## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
-
-**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **4** commits.
-
-``` Frontend Angular progetto Biblioteca ```
 
 
 ## [SMSAlarm](https://github.com/GianluDeveloper/SMSAlarm)
