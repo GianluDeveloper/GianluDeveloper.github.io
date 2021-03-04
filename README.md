@@ -117,6 +117,13 @@
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
 
 
+## [SMSAlarm](https://github.com/GianluDeveloper/SMSAlarm)
+
+**GianluDeveloper/SMSAlarm** have been developed mainly in **Java** and has **3** commits.
+
+``` Android APP to activate ringtone at any given time if receives SMS that contains your keyword ```
+
+
 ## [CorsiClient](https://github.com/GianluDeveloper/CorsiClient)
 
 **GianluDeveloper/CorsiClient** have been developed mainly in **Java** and has **3** commits.
@@ -126,7 +133,7 @@
 
 ## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
 
-**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **2** commits.
+**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **3** commits.
 
 ``` Frontend Angular progetto Biblioteca ```
 
