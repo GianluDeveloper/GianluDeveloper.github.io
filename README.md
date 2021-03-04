@@ -123,3 +123,10 @@
 
 ``` Client EJB Corsi ```
 
+
+## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
+
+**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **2** commits.
+
+``` Frontend Angular progetto Biblioteca ```
+
