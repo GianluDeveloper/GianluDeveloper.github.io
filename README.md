@@ -117,6 +117,13 @@
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
 
 
+## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
+
+**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **4** commits.
+
+``` Frontend Angular progetto Biblioteca ```
+
+
 ## [SMSAlarm](https://github.com/GianluDeveloper/SMSAlarm)
 
 **GianluDeveloper/SMSAlarm** have been developed mainly in **Java** and has **3** commits.
@@ -129,11 +136,4 @@
 **GianluDeveloper/CorsiClient** have been developed mainly in **Java** and has **3** commits.
 
 ``` Client EJB Corsi ```
-
-
-## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
-
-**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **3** commits.
-
-``` Frontend Angular progetto Biblioteca ```
 
