@@ -82,18 +82,18 @@
 ``` Github Homepage ```
 
 
+## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
+
+**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **7** commits.
+
+``` Frontend Angular progetto Biblioteca ```
+
+
 ## [Travelers-TodoList](https://github.com/GianluDeveloper/Travelers-TodoList)
 
 **GianluDeveloper/Travelers-TodoList** have been developed mainly in **JavaScript** and has **6** commits.
 
 ``` Simple Todo List I built from scratch for collaboratively listing things to bring with us for a travel with my girlfriend. The listing element is an editable HTML, and you can remove elements by clicking on the broken_heart icon. ```
-
-
-## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
-
-**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **6** commits.
-
-``` Frontend Angular progetto Biblioteca ```
 
 
 ## [VideoPrivacy](https://github.com/GianluDeveloper/VideoPrivacy)
