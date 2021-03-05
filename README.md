@@ -61,6 +61,13 @@
 ``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
 
 
+## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
+
+**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **8** commits.
+
+``` Frontend Angular progetto Biblioteca ```
+
+
 ## [PrivateBookmarks](https://github.com/GianluDeveloper/PrivateBookmarks)
 
 **GianluDeveloper/PrivateBookmarks** have been developed mainly in **JavaScript** and has **7** commits.
@@ -80,13 +87,6 @@
 **GianluDeveloper/GianluDeveloper** have been developed mainly in **null** and has **7** commits.
 
 ``` Github Homepage ```
-
-
-## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
-
-**GianluDeveloper/BibliotecaAngular** have been developed mainly in **TypeScript** and has **7** commits.
-
-``` Frontend Angular progetto Biblioteca ```
 
 
 ## [Travelers-TodoList](https://github.com/GianluDeveloper/Travelers-TodoList)
