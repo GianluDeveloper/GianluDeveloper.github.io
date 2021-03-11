@@ -126,7 +126,7 @@
 
 ## [SMSAlarm](https://github.com/GianluDeveloper/SMSAlarm)
 
-**GianluDeveloper/SMSAlarm** have been developed mainly in **Java** and has **3** commits.
+**GianluDeveloper/SMSAlarm** have been developed mainly in **Java** and has **4** commits.
 
 ``` Android APP to activate ringtone at any given time if receives SMS that contains your keyword ```
 
