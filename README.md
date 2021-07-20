@@ -131,6 +131,13 @@
 ``` Android APP to activate ringtone at any given time if receives SMS that contains your keyword ```
 
 
+## [followerTerminator](https://github.com/GianluDeveloper/followerTerminator)
+
+**GianluDeveloper/followerTerminator** have been developed mainly in **Python** and has **3** commits.
+
+``` FollowMe ? FollowYou : UnfollowYou ```
+
+
 ## [CorsiClient](https://github.com/GianluDeveloper/CorsiClient)
 
 **GianluDeveloper/CorsiClient** have been developed mainly in **Java** and has **3** commits.
