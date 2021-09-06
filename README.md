@@ -89,6 +89,13 @@
 ``` Github Homepage ```
 
 
+## [gianlu.dev](https://github.com/GianluDeveloper/gianlu.dev)
+
+**GianluDeveloper/gianlu.dev** have been developed mainly in **HTML** and has **7** commits.
+
+``` null ```
+
+
 ## [Travelers-TodoList](https://github.com/GianluDeveloper/Travelers-TodoList)
 
 **GianluDeveloper/Travelers-TodoList** have been developed mainly in **JavaScript** and has **6** commits.
@@ -129,13 +136,6 @@
 **GianluDeveloper/Hasher-Server** have been developed mainly in **Go** and has **5** commits.
 
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
-
-
-## [gianlu.dev](https://github.com/GianluDeveloper/gianlu.dev)
-
-**GianluDeveloper/gianlu.dev** have been developed mainly in **null** and has **5** commits.
-
-``` null ```
 
 
 ## [followerTerminator](https://github.com/GianluDeveloper/followerTerminator)
