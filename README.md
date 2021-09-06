@@ -131,6 +131,13 @@
 ``` Server for checking large remote files by chunks with local ones. Built for transferring TBs of data divided in very large compressed archive (I needed it for ~50gb tgz each) under unreliable client connection. ```
 
 
+## [gianlu.dev](https://github.com/GianluDeveloper/gianlu.dev)
+
+**GianluDeveloper/gianlu.dev** have been developed mainly in **null** and has **5** commits.
+
+``` null ```
+
+
 ## [followerTerminator](https://github.com/GianluDeveloper/followerTerminator)
 
 **GianluDeveloper/followerTerminator** have been developed mainly in **Python** and has **3** commits.
