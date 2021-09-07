@@ -151,10 +151,3 @@
 
 ``` Client EJB Corsi ```
 
-
-## [ClickerVision](https://github.com/GianluDeveloper/ClickerVision)
-
-**GianluDeveloper/ClickerVision** have been developed mainly in **null** and has **1** commits.
-
-``` null ```
-
