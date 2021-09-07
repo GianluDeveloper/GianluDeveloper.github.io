@@ -7,7 +7,7 @@
 # My GitHub Projects
 ## [BibliotecaJavaWeb](https://github.com/GianluDeveloper/BibliotecaJavaWeb)
 
-**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **74** commits.
+**GianluDeveloper/BibliotecaJavaWeb** have been developed mainly in **Java** and has **75** commits.
 
 ``` Progetto Java Web App Gestionale Biblioteca ```
 
@@ -26,18 +26,18 @@
 ``` E-Wallet WebService Java. Creazione di un software di gestione dei conti correnti con endpoint SOAP & REST ```
 
 
+## [CurriculumVitaeCSS](https://github.com/GianluDeveloper/CurriculumVitaeCSS)
+
+**GianluDeveloper/CurriculumVitaeCSS** have been developed mainly in **JavaScript** and has **17** commits.
+
+``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
+
+
 ## [BibliotecaReactFrontend](https://github.com/GianluDeveloper/BibliotecaReactFrontend)
 
 **GianluDeveloper/BibliotecaReactFrontend** have been developed mainly in **TypeScript** and has **17** commits.
 
 ``` Frontend with React.js for the project BibliotecaJavaWeb ```
-
-
-## [CurriculumVitaeCSS](https://github.com/GianluDeveloper/CurriculumVitaeCSS)
-
-**GianluDeveloper/CurriculumVitaeCSS** have been developed mainly in **JavaScript** and has **16** commits.
-
-``` Curriculum creato con CSS3 & CSS Grid. Funzionalità demo di backend PHP ```
 
 
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
@@ -54,18 +54,18 @@
 ``` null ```
 
 
+## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
+
+**GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **9** commits.
+
+``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
+
+
 ## [OpenRemotePort](https://github.com/GianluDeveloper/OpenRemotePort)
 
 **GianluDeveloper/OpenRemotePort** have been developed mainly in **Go** and has **8** commits.
 
 ``` This software aims to provide a way to keep only http/https and smtp services available from outside, while at the same time allow legit clients to request port opening on the server. ```
-
-
-## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
-
-**GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **8** commits.
-
-``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
 
 
 ## [BibliotecaAngular](https://github.com/GianluDeveloper/BibliotecaAngular)
