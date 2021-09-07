@@ -54,6 +54,13 @@
 ``` This software aims to provide a way to keep only http/https and smtp services available from outside, while at the same time allow legit clients to request port opening on the server. ```
 
 
+## [gianlu.dev](https://github.com/GianluDeveloper/gianlu.dev)
+
+**GianluDeveloper/gianlu.dev** have been developed mainly in **HTML** and has **8** commits.
+
+``` null ```
+
+
 ## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
 
 **GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **8** commits.
@@ -87,13 +94,6 @@
 **GianluDeveloper/GianluDeveloper** have been developed mainly in **null** and has **7** commits.
 
 ``` Github Homepage ```
-
-
-## [gianlu.dev](https://github.com/GianluDeveloper/gianlu.dev)
-
-**GianluDeveloper/gianlu.dev** have been developed mainly in **HTML** and has **7** commits.
-
-``` null ```
 
 
 ## [Travelers-TodoList](https://github.com/GianluDeveloper/Travelers-TodoList)
