@@ -40,6 +40,13 @@
 ``` Frontend with React.js for the project BibliotecaJavaWeb ```
 
 
+## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
+
+**GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **11** commits.
+
+``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
+
+
 ## [AutoReposList](https://github.com/GianluDeveloper/AutoReposList)
 
 **GianluDeveloper/AutoReposList** have been developed mainly in **JavaScript** and has **11** commits.
@@ -52,13 +59,6 @@
 **GianluDeveloper/gianlu.dev** have been developed mainly in **HTML** and has **9** commits.
 
 ``` null ```
-
-
-## [ChatWatchingFullscreen](https://github.com/GianluDeveloper/ChatWatchingFullscreen)
-
-**GianluDeveloper/ChatWatchingFullscreen** have been developed mainly in **JavaScript** and has **9** commits.
-
-``` Always wanted to comment in real time a video with a friend? And doing that with a full screen beauty? ```
 
 
 ## [OpenRemotePort](https://github.com/GianluDeveloper/OpenRemotePort)
